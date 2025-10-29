@@ -35,7 +35,7 @@ Recipe Notes helps you organize, discover, and perfect your cooking. Save recipe
 **Links:**
 - [Website](https://recipenotes.app)
 - [App Store](https://apps.apple.com/app/id6740270378)
-- [Privacy Policy](https://recipenotes.app/privacy)
+- [Privacy Policy](https://recipenotes.app/privacy-policy)
 
 </td>
 <td width="40%">
@@ -57,7 +57,7 @@ Recipe Notes helps you organize, discover, and perfect your cooking. Save recipe
 <td width="40%">
 
 <div align="center">
-<img src="../subnote_icon.png" alt="SubNote Icon" width="120"/>
+<img src="./subnote_icon.png" alt="SubNote Icon" width="120"/>
 </div>
 
 </td>
@@ -78,9 +78,9 @@ SubNote is a secure, privacy-focused note-taking application for Android. Your n
 - Open source and transparent
 
 **Links:**
-- Repository: [Add link]
-- Google Play: [Add link]
-- Website: [Add link]
+<!-- - Repository: [Add link]
+- Google Play: [Add link] -->
+- [Website](https://getsubnote.app/)
 
 </td>
 </tr>
